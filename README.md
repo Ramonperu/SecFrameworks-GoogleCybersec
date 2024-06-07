@@ -77,3 +77,52 @@ Sus principios son:
 - **Separación de funciones:** Evitar que las personas tengan demasiado poder y cometan fraude.
 - **Mantener la seguridad simple:** Evitar controles de seguridad demasiado complejos que sean difíciles de gestionar.
 - **Solucionar los problemas de seguridad correctamente:** Identificar y abordar las vulnerabilidades de forma rápida y eficaz.
+
+### Security Audits o Auditorias de seguridad
+
+Son revisiones independientes que evalúan si una organización está cumpliendo con los criterios internos y externos de seguridad. Existen dos tipos las internas y las externas
+
+- El objetivo de una auditoría es asegurar que las prácticas de TI de una organización están cumpliendo con los estándares de la industria y de la organización, tambien se basa en identificar y abordar las áreas de remediación y crecimiento.
+
+Marcos de trabajo como NIST CSF e ISO 27000 pueden ayudar a las organizaciones a prepararse para las auditorías de seguridad de cumplimiento normativo.
+
+Hay tres categorías principales de controles a revisar durante una auditoría: 
+
+- Administrativos
+- Tecnicos
+- Fisicos.
+
+**1. Controles Administrativos/Gerenciales:**
+
+- Se enfocan en el factor humano de la ciberseguridad.
+- Incluyen políticas y procedimientos que definen cómo una organización administra los datos y las responsabilidades de los empleados.
+- La aplicación de estas políticas puede requerir controles técnicos o físicos.
+
+**2. Controles Técnicos:**
+
+- Consisten en soluciones como firewalls, IDS, IPS, productos antivirus y encriptación.
+- Se utilizan para cumplir los objetivos de la organización.
+
+**3. Controles Físicos:**
+
+- Incluyen cerraduras de puertas, cerraduras de gabinetes, cámaras de vigilancia y lectores de tarjetas.
+- Limitan el acceso físico a los activos por parte de personal no autorizado.
+
+**Tipos de Controles:**
+
+- **Preventivos:** diseñados para evitar que ocurra un incidente.
+- **Correctivos:** utilizados para restaurar un activo después de un incidente.
+- **Detectivos:** implementados para determinar si un incidente ha ocurrido o está en progreso.
+- **Disuasivos:** diseñados para desalentar los ataques.
+
+**Ejemplos de Controles:**
+
+- **Administrativos:** Privilegios mínimos, planes de recuperación de desastres, políticas de contraseñas, políticas de control de acceso, políticas de administración de cuentas, separación de funciones.
+- **Técnicos:** Firewall, IDS/IPS, encriptación, copias de seguridad, administración de contraseñas, software antivirus, monitoreo manual, mantenimiento e intervención.
+- **Físicos:** Caja fuerte con control de tiempo, iluminación adecuada, circuito cerrado de televisión (CCTV), gabinetes con cerradura, señalización que indica el proveedor del servicio de alarma, cerraduras, detección y prevención de incendios.
+
+Una lista de verificación de la auditoría debe incluir el alcance de la auditoría, una evaluación de riesgos, la auditoría en sí, un plan de mitigación y la comunicación de los resultados a las partes interesadas.
+
+
+
+A continuación vamos a realizar una simulación de auditoria en base a unos datos proporcionados por el curso de google
